@@ -1,4 +1,4 @@
-import Todo from '../app/todo';
+import Todo from '../../../app/todo';
 import renderer from 'react-test-renderer';
 import React from 'react';
 

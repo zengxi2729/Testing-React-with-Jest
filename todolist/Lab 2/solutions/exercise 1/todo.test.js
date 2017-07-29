@@ -1,4 +1,4 @@
-import Todo from '../app/todo';
+import Todo from '../../../app/todo';
 import React from 'react';
 import { mount } from 'enzyme';
 

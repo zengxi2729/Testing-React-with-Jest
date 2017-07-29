@@ -1,4 +1,4 @@
-import { toggleDone, deleteTodo } from '../app/state-functions';
+import { toggleDone, deleteTodo } from '../../../app/state-functions';
 
 test('tooggleDone completes an incomplete todo', () => {
   const startState = {
